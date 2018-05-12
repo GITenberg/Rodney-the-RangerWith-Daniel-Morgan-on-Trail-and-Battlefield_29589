@@ -1,0 +1,35 @@
+_repo: Rodney-the-RangerWith-Daniel-Morgan-on-Trail-and-Battlefield_29589
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lane, John V. (John Veasey)
+    alias: Lane, John Veasey
+    birthdate: 1861
+    gutenberg_agent_id: '34013'
+    url: http://www.gutenberg.org/2009/agents/34013
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29589'
+  lccn: '11016565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Morgan, Daniel, 1736-1802 -- Juvenile fiction'
+title: Rodney, the Ranger, with Daniel Morgan on Trail and Battlefield
+url: http://www.gutenberg.org/ebooks/29589
